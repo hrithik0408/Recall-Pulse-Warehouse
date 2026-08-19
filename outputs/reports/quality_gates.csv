@@ -1,0 +1,6 @@
+name,value,threshold,comparator,passed,note
+pct_missing_init_date,0.0,8.0,<=,True,Garbage YYYYMMDD values should be rare after the 1990–2030 gate.
+pct_stale_ongoing,0.0,15.0,<=,True,"openFDA leaves old recalls marked Ongoing. Flag, do not trust status."
+pct_unparsed_exposure,14.2,20.0,<=,True,distribution_pattern with no state token and no nationwide phrase.
+avg_name_variants,1.0212765957446808,1.05,>=,False,"If this is ~1.0 on real data, firm matching is probably under-collapsing."
+class_i_share,46.2,5.0,>=,True,"A pull with almost no Class I is usually a filter bug, not a miracle year."

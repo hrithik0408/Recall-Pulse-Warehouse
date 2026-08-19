@@ -1,0 +1,402 @@
+firm_key,example_name,n_name_variants,firm_state,initiated_year,recalls,class_i,class_i_pct,avg_days_to_report,recalls_rolling_3yr,prev_year_recalls,firm_flag
+albertsons companies,"Albertsons Companies, Inc.",2,ID,2026,1,0,0.0,35.0,3,1.0,watch
+galaxy rg,Galaxy RG Corp,1,FL,2026,1,0,0.0,75.0,1,,watch
+green jeeva,Green Jeeva LLC,1,CA,2026,1,1,100.0,21.0,1,,acute_severe
+j and j bunting,"J and J Bunting, Inc",1,MN,2026,1,0,0.0,33.0,1,,watch
+john b sanfilippo and sons,JOHN B SANFILIPPO & SONS INC,1,IL,2026,1,1,100.0,22.0,1,,acute_severe
+ps seasoning and spices,"PS Seasoning & Spices, Inc.",1,WI,2026,1,1,100.0,35.0,1,,acute_severe
+uncle ray s,Uncle Ray's LLC,1,MI,2026,1,0,0.0,21.0,1,,watch
+reser s fine foods,"Reser's Fine Foods, Inc.",1,OR,2025,1,1,100.0,33.0,7,1.0,acute_severe
+chetak new york,CHETAK NEW YORK LLC,1,NJ,2025,3,3,100.0,103.0,3,,acute_severe
+albertsons companies,"Albertsons Companies, Inc.",2,ID,2025,1,1,100.0,33.0,2,1.0,acute_severe
+c sweet pastry,C SWEET PASTRY LLC,1,MI,2025,2,0,0.0,21.0,2,,watch
+and go concepts dba salad and go,AND GO CONCEPTS DBA SALAD AND GO,1,TX,2025,1,1,100.0,57.0,1,,acute_severe
+better business better foods,"Better Business...Better Foods, Inc.",1,NH,2025,1,0,0.0,28.0,1,,watch
+bharat bazar,BHARAT BAZAR,1,CA,2025,1,0,0.0,61.0,1,,watch
+carley s,Carley's Inc.,1,IL,2025,1,0,0.0,26.0,1,,watch
+celebration herbals us,CELEBRATION HERBALS US,1,NY,2025,1,0,0.0,29.0,1,,watch
+d coluccio and sons,D. Coluccio & Sons Inc.,1,NY,2025,1,0,0.0,31.0,1,,watch
+gusto group,"GUSTO GROUP, INC.",1,NJ,2025,1,0,0.0,63.0,1,,watch
+lipman family farms,LIPMAN FAMILY FARMS,1,FL,2025,1,1,100.0,29.0,1,,acute_severe
+naturemills us,NatureMills US Incorporated,1,TX,2025,1,0,0.0,50.0,1,,watch
+seoul trading,"Seoul Trading, Inc.",1,WA,2025,1,1,100.0,313.0,1,,acute_severe
+supplement manufacturing partner,Supplement Manufacturing Partner Inc.,1,FL,2025,1,1,100.0,26.0,1,,acute_severe
+twin sisters creamery,"Twin Sisters Creamery, LLC",1,WA,2025,1,1,100.0,33.0,1,,acute_severe
+unfi general corporate,UNFI General Corporate,1,RI,2025,1,0,0.0,39.0,1,,watch
+wholesale produce supply dba,WHOLESALE PRODUCE SUPPLY LLC DBA,1,MN,2025,1,1,100.0,26.0,1,,acute_severe
+reser s fine foods,"Reser's Fine Foods, Inc.",1,OR,2024,1,1,100.0,33.0,6,5.0,acute_severe
+treehouse foods,Treehouse Foods,1,IL,2024,1,0,0.0,48.0,4,3.0,watch
+lemonland food,Lemonland Food Corp,1,WA,2024,1,0,0.0,42.0,3,2.0,watch
+griffith foods,GRIFFITH FOODS,2,IL,2024,1,0,0.0,54.0,2,1.0,watch
+totally cool,"Totally Cool, Inc.",1,MD,2024,2,0,0.0,55.0,2,,watch
+american spice,American Spice LLC,1,NY,2024,1,0,0.0,99.0,1,,watch
+belgian yummies,Belgian Yummies,1,FL,2024,1,1,100.0,56.0,1,,acute_severe
+charles boggini,Charles Boggini Company Llc,1,CT,2024,1,0,0.0,75.0,1,,watch
+cn frozen foods,"CN Frozen Foods, INC",1,FL,2024,1,0,0.0,25.0,1,,watch
+country corner dairy,"Country Corner Dairy, LLC",1,VA,2024,1,0,0.0,27.0,1,,watch
+danisco usa,Danisco USA Inc.,1,KS,2024,1,1,100.0,40.0,1,,acute_severe
+feel good foods,FEEL GOOD FOODS INC,1,NY,2024,1,0,0.0,84.0,1,,watch
+grande cheese,GRANDE CHEESE COMPANY,1,WI,2024,1,1,100.0,49.0,1,,acute_severe
+grecian delight kronos,Grecian Delight/Kronos,1,IL,2024,1,1,100.0,44.0,1,,acute_severe
+greco sidari,Greco Sidari,1,OH,2024,1,0,0.0,34.0,1,,watch
+handnatural,HandNatural,1,AZ,2024,1,1,100.0,75.0,1,,acute_severe
+hardies fresh foods,HARDIES FRESH FOODS,1,TX,2024,1,1,100.0,56.0,1,,acute_severe
+metro produce distributors,"Metro Produce Distributors, Inc.",1,MN,2024,1,1,100.0,21.0,1,,acute_severe
+my chai,My Chai Inc,1,OR,2024,1,0,0.0,84.0,1,,watch
+palmer and,Palmer & Company,1,IA,2024,1,1,100.0,103.0,1,,acute_severe
+prophet premium blends,"Prophet Premium Blends, LLC",1,CA,2024,1,1,100.0,41.0,1,,acute_severe
+riverside natural foods,"Riverside Natural Foods, Ltd.",1,,2024,1,0,0.0,72.0,1,,watch
+sacramento cookie factory,Sacramento Cookie Factory,1,CA,2024,1,0,0.0,28.0,1,,watch
+starter bakery,STARTER BAKERY,1,CA,2024,1,0,0.0,33.0,1,,watch
+terry and joe baker farms dba baker farms,"Terry and Joe Baker Farms, LLC dba Baker Farms",1,GA,2024,1,1,100.0,26.0,1,,acute_severe
+tiffany food,Tiffany Food Corp.,1,NY,2024,1,0,0.0,104.0,1,,watch
+newly weds foods,Newly Weds Foods Inc,2,IL,2023,5,5,100.0,47.0,8,2.0,acute_severe
+fresh ideation food group dba fresh creative cuisine,"FRESH IDEATION FOOD GROUP, LLC dba Fresh Creative Cuisine",1,MD,2023,6,6,100.0,47.0,6,,acute_severe
+cargill corporate headquarters,"Cargill, Inc         Corporate Headquarters",1,MN,2023,2,0,0.0,41.0,2,,watch
+lemonland food,Lemonland Food Corp,1,WA,2023,2,0,0.0,41.0,2,,watch
+renaissance food group,Renaissance Food Group,1,GA,2023,1,1,100.0,33.0,2,1.0,acute_severe
+vitality works,"Vitality Works, Inc",1,NM,2023,2,0,0.0,43.0,2,,watch
+aquamar,Aquamar Inc,1,CA,2023,1,1,100.0,40.0,1,,acute_severe
+borris brothers,Borris Brothers,1,FL,2023,1,0,0.0,34.0,1,,watch
+caledonia facility of revolution farms,Caledonia Facility of Revolution Farms LLC,1,MI,2023,1,1,100.0,42.0,1,,acute_severe
+cassanos,Cassanos Inc,1,OH,2023,1,0,0.0,22.0,1,,watch
+epic baking,Epic Baking,1,GA,2023,1,0,0.0,51.0,1,,watch
+gills onions,"Gills Onions, LLC",1,CA,2023,1,1,100.0,23.0,1,,acute_severe
+ice cream house,ICE CREAM HOUSE,1,NY,2023,1,1,100.0,43.0,1,,acute_severe
+katies korner,Katies Korner Inc.,1,OH,2023,1,0,0.0,41.0,1,,watch
+meijer,Meijer Inc,1,MI,2023,1,1,100.0,42.0,1,,acute_severe
+mount franklin foods dba azar nut,Mount Franklin Foods LLC DBA Azar Nut Co.,1,TX,2023,1,0,0.0,42.0,1,,watch
+tampico spice,Tampico Spice Company Inc,1,CA,2023,1,0,0.0,27.0,1,,watch
+tgd cuts,"TGD Cuts, LLC",1,MD,2023,1,1,100.0,28.0,1,,acute_severe
+the coastal companies dba hearn kirkwood,The Coastal Companies DBA Hearn Kirkwood,1,MD,2023,1,0,0.0,33.0,1,,watch
+the quaker oats,The Quaker Oats Co.,1,IL,2023,1,0,0.0,82.0,1,,watch
+the sausage maker,"The Sausage Maker, Inc.",1,NY,2023,1,0,0.0,113.0,1,,watch
+wilcox ice cream,WILCOX ICE CREAM,1,VT,2023,1,1,100.0,35.0,1,,acute_severe
+elite confectionery,ELITE CONFECTIONERY LTD,1,,2022,3,3,100.0,48.0,3,,acute_severe
+lyons magnus,"Lyons Magnus, Inc",1,CA,2022,3,3,100.0,47.0,3,,acute_severe
+dole fresh vegetables,Dole Fresh Vegetables Inc,1,CA,2022,1,1,100.0,55.0,2,1.0,acute_severe
+dymski pierogi,DYMSKI PIEROGI LLC,1,PA,2022,2,0,0.0,33.0,2,,watch
+lehi valley trading,"Lehi Valley Trading Co, Inc",2,AZ,2022,1,1,100.0,54.0,2,1.0,acute_severe
+russ davis wholesale,"Russ Davis Wholesale, Inc.",2,MN,2022,1,0,0.0,61.0,2,1.0,watch
+alida s bakery,Alida's Bakery LLC,1,WA,2022,1,0,0.0,50.0,1,,watch
+clinical innovations,"Clinical Innovations, LLC",1,UT,2022,1,0,0.0,50.0,1,,watch
+continental mills corporate office,Continental Mills (Corporate Office),1,WA,2022,1,0,0.0,41.0,1,,watch
+fruit fresh up,"Fruit Fresh Up, Inc.",1,NY,2022,1,1,100.0,26.0,1,,acute_severe
+general mills james ford bell technical center,General Mills James Ford Bell Technical Center,1,MN,2022,1,1,100.0,24.0,1,,acute_severe
+hippos and hashbrowns,Hippos and Hashbrowns,1,TX,2022,1,0,0.0,58.0,1,,watch
+liberty fruit dba carol s cuts,Liberty Fruit Co Inc DBA Carol's Cuts,1,KS,2022,1,1,100.0,40.0,1,,acute_severe
+mks enterprise,MKS Enterprise LLC,1,NJ,2022,1,1,100.0,23.0,1,,acute_severe
+piantedosi baking,"Piantedosi Baking Co., Inc.",1,MA,2022,1,0,0.0,28.0,1,,watch
+produce packaging,Produce Packaging Inc,1,OH,2022,1,1,100.0,20.0,1,,acute_severe
+queen bee gardens,"Queen Bee Gardens, LLC",1,WY,2022,1,0,0.0,90.0,1,,watch
+renaissance food group,Renaissance Food Group,1,GA,2022,1,1,100.0,30.0,1,,acute_severe
+something south african,Something South African LLC,1,GA,2022,1,0,0.0,44.0,1,,watch
+the jm smucker,The JM Smucker Company LLC,1,OH,2022,1,1,100.0,19.0,1,,acute_severe
+newly weds foods,Newly Weds Foods Inc,2,IL,2021,2,0,0.0,29.0,9,1.0,watch
+chocolate and the chip,Chocolate and the Chip,1,CA,2021,2,0,0.0,22.0,2,,watch
+kareem mart,KAREEM MART INC,1,MI,2021,2,2,100.0,28.5,2,,acute_severe
+kraft heinz foods,Kraft Heinz Foods,2,IL,2021,1,0,0.0,41.0,2,1.0,watch
+5000 years foods,"5000 Years Foods, Inc.",1,IL,2021,1,0,0.0,43.0,1,,watch
+able groupe,Able Groupe Inc,1,NV,2021,1,1,100.0,17.0,1,,acute_severe
+alsum farms and produce,"Alsum Farms & Produce, Inc.",1,WI,2021,1,1,100.0,36.0,1,,acute_severe
+banner smoked fish,Banner Smoked Fish Inc.,1,NY,2021,1,1,100.0,29.0,1,,acute_severe
+barron county organics,Barron County Organics,1,WI,2021,1,0,0.0,21.0,1,,watch
+bonduelle usa,Bonduelle USA Inc.,1,NY,2021,1,0,0.0,36.0,1,,watch
+carolina ingredients,Carolina Ingredients,1,SC,2021,1,0,0.0,48.0,1,,watch
+clio,Clio LLC,1,NJ,2021,1,0,0.0,25.0,1,,watch
+flowers foods corporate offices,Flowers Foods (Corporate Offices),1,GA,2021,1,1,100.0,26.0,1,,acute_severe
+fresh express div of chiquita brands,Fresh Express Inc (Div of Chiquita Brands),1,IL,2021,1,1,100.0,46.0,1,,acute_severe
+hellofresh us,HELLOFRESH US,1,NY,2021,1,1,100.0,33.0,1,,acute_severe
+joy s international foods,"Joy's International Foods, Incorporated",1,FL,2021,1,0,0.0,30.0,1,,watch
+livia global,Livia Global,1,CA,2021,1,0,0.0,21.0,1,,watch
+naturo aid pharmaceutical,Naturo Aid Pharmaceutical Inc.,1,N/A,2021,1,0,0.0,120.0,1,,watch
+nutracap labs,NutraCap Labs LLC,1,GA,2021,1,1,100.0,71.0,1,,acute_severe
+picket fence creamery,Picket Fence Creamery L.L.C.,1,IA,2021,1,0,0.0,56.0,1,,watch
+rc industries,RC Industries Inc.,1,OH,2021,1,0,0.0,36.0,1,,watch
+the fillo factory,The Fillo Factory Inc.,1,NJ,2021,1,1,100.0,30.0,1,,acute_severe
+velvet ice cream,Velvet Ice Cream Company,1,OH,2021,1,1,100.0,19.0,1,,acute_severe
+giant eagle,"Giant Eagle, Inc.",2,PA,2020,1,1,100.0,38.0,2,1.0,acute_severe
+san francisco street bakery,San Francisco Street Bakery Inc.,1,WA,2020,2,0,0.0,27.0,2,,watch
+built brands,BUILT BRANDS LLC,1,UT,2020,1,0,0.0,42.0,1,,watch
+country fresh,Country Fresh Inc.,1,TX,2020,1,1,100.0,20.0,1,,acute_severe
+fresh express,Fresh Express Incorporated,1,FL,2020,1,0,0.0,33.0,1,,watch
+lanvin french bakery,"Lanvin French Bakery, LLC",1,OR,2020,1,0,0.0,21.0,1,,watch
+lipari foods operating,"Lipari Foods Operating Company, LLC.",1,MI,2020,1,1,100.0,37.0,1,,acute_severe
+natures path foods usa,"Natures Path Foods USA, Inc.",1,WA,2020,1,0,0.0,19.0,1,,watch
+organic by nature,"Organic By Nature, Inc.",1,CA,2020,1,0,0.0,37.0,1,,watch
+rich products,Rich Products Corp,1,NY,2020,1,0,0.0,22.0,1,,watch
+rong shing trading ny,Rong Shing Trading NY Inc,1,NY,2020,1,0,0.0,35.0,1,,watch
+southern sisters gourmet,Southern Sisters Gourmet,1,MS,2020,1,0,0.0,64.0,1,,watch
+sundial herbal products,Sundial Herbal Products,1,NY,2020,1,0,0.0,71.0,1,,watch
+winco foods,Winco Foods Llc,1,ID,2020,1,0,0.0,19.0,1,,watch
+newly weds foods,Newly Weds Foods Inc,2,IL,2019,1,0,0.0,26.0,7,6.0,watch
+c and s wholesale grocers,"C & S Wholesale Grocers, Inc.",1,MA,2019,5,0,0.0,44.0,5,,watch
+dierbergs markets corporate office,"Dierbergs Markets, Inc Corporate Office",1,MO,2019,1,1,100.0,29.0,3,2.0,acute_severe
+pita pal foods,Pita Pal Foods LP,1,TX,2019,2,2,100.0,72.0,2,,acute_severe
+bedessee imports,"Bedessee Imports, Inc",1,NY,2019,1,0,0.0,26.0,1,,watch
+brand castle,Brand Castle LLC,1,OH,2019,1,1,100.0,44.0,1,,acute_severe
+california new foods,California New foods,1,CA,2019,1,1,100.0,58.0,1,,acute_severe
+catsmo,CATSMO LLC,1,NY,2019,1,1,100.0,64.0,1,,acute_severe
+ch guenther and sons,"CH Guenther & Sons, Inc",1,TX,2019,1,0,0.0,21.0,1,,watch
+coborn s,"Coborn's, Inc",1,MN,2019,1,1,100.0,29.0,1,,acute_severe
+gerber products dba nestle infant nutrition,Gerber Products Company dba Nestle Infant Nutrition,1,VA,2019,1,0,0.0,77.0,1,,watch
+great one trading,Great One Trading Inc.,1,NY,2019,1,1,100.0,27.0,1,,acute_severe
+impossible foods,Impossible Foods,1,CA,2019,1,0,0.0,27.0,1,,watch
+joy gourmet foods,JOY GOURMET FOODS LLC,1,NY,2019,1,0,0.0,23.0,1,,watch
+kerry,"Kerry, Inc",1,WI,2019,1,0,0.0,23.0,1,,watch
+laird superfood,LAIRD SUPERFOOD INC,1,OR,2019,1,0,0.0,26.0,1,,watch
+nutrafuels,"Nutrafuels, Inc.",1,FL,2019,1,0,0.0,47.0,1,,watch
+procesadora aguas claras ltda,Procesadora Aguas Claras LTDA.,1,N/A,2019,1,1,100.0,37.0,1,,acute_severe
+prothera dba sfi usa,"ProThera, Inc. dba SFI USA",1,NV,2019,1,0,0.0,48.0,1,,watch
+rachael s food,Rachael's Food Corporation,1,MA,2019,1,1,100.0,43.0,1,,acute_severe
+regal food dba the pizza shop,Regal Food Inc./dba The Pizza Shop,1,HI,2019,1,0,0.0,42.0,1,,watch
+russ davis wholesale,"Russ Davis Wholesale, Inc.",2,MN,2019,1,1,100.0,22.0,1,,acute_severe
+sonora mills foods dba popch,SONORA MILLS FOODS INC DBA POPCH,1,CA,2019,1,0,0.0,36.0,1,,watch
+tfi holding dba grey ghost bakery,TFI Holding dba Grey Ghost Bakery,1,SC,2019,1,0,0.0,29.0,1,,watch
+the kroger,The Kroger Co,1,OH,2019,1,1,100.0,82.0,1,,acute_severe
+traders west,Traders West Inc,1,FL,2019,1,0,0.0,34.0,1,,watch
+whole flower farms,Whole Flower Farms LLC,1,OR,2019,1,0,0.0,22.0,1,,watch
+whole foods market,Whole Foods Market,1,CA,2019,1,1,100.0,40.0,1,,acute_severe
+wismettac asian foods,"Wismettac Asian Foods, INC",1,CA,2019,1,0,0.0,34.0,1,,watch
+target,Target Corporation,1,MN,2018,4,0,0.0,43.0,4,,watch
+working cow homemade,Working Cow Homemade Inc.,1,FL,2018,3,3,100.0,54.0,3,,acute_severe
+nutranext business,NUTRANEXT BUSINESS LLC,1,FL,2018,2,0,0.0,44.0,2,,watch
+shearers foods,"Shearers Foods, Llc",1,OH,2018,1,1,100.0,22.0,2,1.0,acute_severe
+whole foods market group,Whole Foods Market Group Inc.,1,MD,2018,2,2,100.0,33.0,2,,acute_severe
+ask foods,ASK Foods Inc,1,PA,2018,1,0,0.0,64.0,1,,watch
+condies foods,"Condies Foods, Inc.",1,UT,2018,1,1,100.0,29.0,1,,acute_severe
+dahlicious,DAHLICIOUS,1,MA,2018,1,0,0.0,106.0,1,,watch
+fieldbrook foods,Fieldbrook Foods Corporation,1,NY,2018,1,1,100.0,21.0,1,,acute_severe
+food and beverage,Food and Beverage Inc.,1,NJ,2018,1,0,0.0,16.0,1,,watch
+frito lay,"Frito-Lay, Inc",1,TX,2018,1,0,0.0,19.0,1,,watch
+general mills,"General Mills, Inc",1,MN,2018,1,0,0.0,27.0,1,,watch
+gourmet international,Gourmet International Inc.,1,MI,2018,1,0,0.0,55.0,1,,watch
+green valley group,"Green Valley Group, LLC",1,OR,2018,1,1,100.0,27.0,1,,acute_severe
+greenbelt greenhouse,Greenbelt Greenhouse Ltd,1,N/A,2018,1,1,100.0,22.0,1,,acute_severe
+griffith foods,GRIFFITH FOODS,2,IL,2018,1,0,0.0,21.0,1,,watch
+h e b grocery dba heb,H-E-B GROCERY COMPANY LP DBA HEB,1,TX,2018,1,0,0.0,21.0,1,,watch
+hart freeze pack,"Hart Freeze pack, LLC",1,MI,2018,1,0,0.0,26.0,1,,watch
+heartland coca cola bottling,Heartland Coca-Cola Bottling Company,1,KS,2018,1,0,0.0,30.0,1,,watch
+hom ade foods,Hom'ade Foods,1,FL,2018,1,0,0.0,30.0,1,,watch
+italian rose garlic products,"Italian Rose Garlic Products, LLC",1,FL,2018,1,0,0.0,26.0,1,,watch
+kwik trip,"Kwik Trip, Inc.",1,WI,2018,1,1,100.0,33.0,1,,acute_severe
+meijer distribution,"Meijer Distribution, Inc",1,MI,2018,1,0,0.0,30.0,1,,watch
+mrs gerry s kitchen,"Mrs Gerry's Kitchen, Inc",1,MN,2018,1,0,0.0,31.0,1,,watch
+quaker manufacturing,"Quaker Manufacturing, LLC",1,IA,2018,1,1,100.0,36.0,1,,acute_severe
+schwartz brothers restaurants dba schwartz brothers bakery,Schwartz Brothers Restaurants dba Schwartz Brothers Bakery,1,WA,2018,1,0,0.0,24.0,1,,watch
+sugar foods,Sugar Foods Corporation Inc,1,NY,2018,1,0,0.0,19.0,1,,watch
+sysco charlotte,Sysco Charlotte,1,NC,2018,1,0,0.0,118.0,1,,watch
+tillamook county creamery assoc,TILLAMOOK COUNTY CREAMERY ASSOC,1,OR,2018,1,0,0.0,26.0,1,,watch
+ukrop s homestyle foods,"Ukrop's Homestyle Foods, LLC",1,VA,2018,1,1,100.0,48.0,1,,acute_severe
+wienke,Wienke LLC,1,WI,2018,1,0,0.0,26.0,1,,watch
+yukon jackson,Yukon Jackson,1,WA,2018,1,0,0.0,26.0,1,,watch
+high liner foods,High Liner Foods Inc.,1,NH,2017,6,0,0.0,75.0,6,,watch
+newly weds foods,Newly Weds Foods Inc,2,IL,2017,6,0,0.0,84.0,6,,watch
+country fresh products,"Country Fresh Products, LLC",1,TX,2017,1,1,100.0,32.0,2,1.0,acute_severe
+dierbergs markets corporate office,"Dierbergs Markets, Inc Corporate Office",1,MO,2017,2,2,100.0,35.0,2,,acute_severe
+first source,First Source Llc,2,NY,2017,1,0,0.0,51.0,2,1.0,watch
+palmer and dba palmer candy,"Palmer and Company, dba Palmer Candy Co",1,IA,2017,2,2,100.0,51.0,2,,acute_severe
+trophy nut,Trophy Nut Co Inc,1,OH,2017,1,0,0.0,40.0,2,1.0,watch
+alaska pasta,Alaska Pasta Company,1,AK,2017,1,0,0.0,23.0,1,,watch
+amrita health foods,Amrita Health Foods,1,NY,2017,1,1,100.0,35.0,1,,acute_severe
+dairy maid dairy,"Dairy Maid Dairy, LLC",1,MD,2017,1,1,100.0,27.0,1,,acute_severe
+farrell farms,"Farrell Farms, Inc",1,NC,2017,1,1,100.0,45.0,1,,acute_severe
+givaudan flavours,Givaudan Flavours Corp,1,OH,2017,1,0,0.0,51.0,1,,watch
+gki foods,"GKI Foods, LLC",1,MI,2017,1,0,0.0,33.0,1,,watch
+killer brownie distributing,Killer Brownie Distributing LLC,1,OH,2017,1,1,100.0,39.0,1,,acute_severe
+kwei chow sauce industry,"Kwei Chow Sauce Industry Co., Ltd.",1,N/A,2017,1,0,0.0,23.0,1,,watch
+landies candies,"Landies Candies, Inc.",1,NY,2017,1,1,100.0,51.0,1,,acute_severe
+lian hwa foods usa,Lian Hwa Foods (USA) Inc.,1,CA,2017,1,0,0.0,64.0,1,,watch
+lyrical foods,Lyrical Foods Inc,1,CA,2017,1,0,0.0,42.0,1,,watch
+mann packing,"Mann Packing Company, Inc.",1,CA,2017,1,1,100.0,27.0,1,,acute_severe
+manzana products,"Manzana Products Co.,  Inc.",1,CA,2017,1,0,0.0,33.0,1,,watch
+midway specialty vehicles,Midway Specialty Vehicles LLC,1,IN,2017,1,0,0.0,23.0,1,,watch
+moondance heavenly desserts,"Moondance Heavenly Desserts, LLC",1,OH,2017,1,0,0.0,37.0,1,,watch
+nutco dba germack pistachio,NUTCO Inc. dba Germack Pistachio Co.,1,MI,2017,1,0,0.0,51.0,1,,watch
+nyblad orchards,Nyblad Orchards,1,MI,2017,1,1,100.0,34.0,1,,acute_severe
+oxford frozen foods plant 1,Oxford Frozen Foods Plant 1,1,Nova Scotia,2017,1,0,0.0,35.0,1,,watch
+pinnacle foods,"Pinnacle Foods, LLC",1,NJ,2017,1,0,0.0,40.0,1,,watch
+rocky s historic eastern market,Rocky'S Historic Eastern Market,1,MI,2017,1,0,0.0,49.0,1,,watch
+rushing waters fisheries,"Rushing Waters Fisheries, LLC",1,WI,2017,1,0,0.0,33.0,1,,watch
+san gennaro foods,"San Gennaro Foods, Inc",1,WA,2017,1,0,0.0,33.0,1,,watch
+snak king,Snak King Corporation,1,CA,2017,1,1,100.0,21.0,1,,acute_severe
+the french s food subs reckitt benckiser,"The French's Food Company, LLC SUBS Reckitt Benckiser",1,MO,2017,1,0,0.0,30.0,1,,watch
+the smokehouse of new york,"The Smokehouse of New York, LLC.",1,NY,2017,1,1,100.0,61.0,1,,acute_severe
+triple b,Triple B Corporation,1,WA,2017,1,1,100.0,19.0,1,,acute_severe
+ventura foods,"Ventura Foods, LLC",1,PA,2017,1,0,0.0,48.0,1,,watch
+vitamin cottage natural food markets,"Vitamin Cottage Natural Food Markets, Inc.",1,CO,2017,1,0,0.0,29.0,1,,watch
+vulto creamery,Vulto Creamery,1,NY,2017,1,1,100.0,40.0,1,,acute_severe
+publix super markets,"Publix Super Markets, Inc.",1,FL,2016,1,1,100.0,48.0,3,2.0,acute_severe
+the pictsweet,The Pictsweet Company,1,TN,2016,3,3,100.0,109.3,3,,acute_severe
+treehouse foods,Treehouse Foods,1,IL,2016,3,3,100.0,162.0,3,,acute_severe
+dr praeger s sensible foods,Dr. Praeger'S Sensible Foods,1,NJ,2016,2,2,100.0,68.0,2,,acute_severe
+farm country cheese house,"Farm Country Cheese House, Inc.",1,MI,2016,2,1,50.0,44.0,2,,acute_severe
+let s do lunch,"Let's Do Lunch, Inc.",1,CA,2016,2,2,100.0,86.0,2,,acute_severe
+sm fish,SM Fish Corp.,1,NY,2016,2,2,100.0,40.5,2,,acute_severe
+abbott nutrition,Abbott Nutrition,1,VA,2016,1,0,0.0,34.0,1,,watch
+albertsons companies,"Albertsons Companies, Inc.",2,ID,2016,1,0,0.0,38.0,1,,watch
+all american seasonings,"All American Seasonings, Inc.",1,CO,2016,1,1,100.0,42.0,1,,acute_severe
+altijira murray products,"Altijira Murray Products, LLC",1,CA,2016,1,1,100.0,78.0,1,,acute_severe
+bj wholesale club,Bj Wholesale Club,1,MA,2016,1,0,0.0,68.0,1,,watch
+calbee north america,"Calbee North America, LLC",1,OR,2016,1,1,100.0,28.0,1,,acute_severe
+country fresh products,"Country Fresh Products, LLC",1,TX,2016,1,1,100.0,139.0,1,,acute_severe
+crescent vending,Crescent Vending Co. Inc.,1,PA,2016,1,0,0.0,54.0,1,,watch
+csm bakery products na,CSM Bakery Products NA,1,GA,2016,1,0,0.0,223.0,1,,watch
+cumberland valley creamery,"Cumberland Valley Creamery, LLC",1,PA,2016,1,0,0.0,302.0,1,,watch
+dutch american foods,Dutch-American Foods Inc,1,IL,2016,1,0,0.0,56.0,1,,watch
+essential foods dba globespun gourmet,Essential Foods Inc. dba Globespun Gourmet,1,WA,2016,1,1,100.0,105.0,1,,acute_severe
+federico s bakery,Federico's Bakery,1,CA,2016,1,0,0.0,23.0,1,,watch
+first source,First Source Llc,2,NY,2016,1,1,100.0,212.0,1,,acute_severe
+fona int l,FONA Int'l,1,IL,2016,1,1,100.0,42.0,1,,acute_severe
+garden of life,Garden Of Life Llc,1,FL,2016,1,1,100.0,110.0,1,,acute_severe
+gold standard baking,"Gold Standard Baking, Inc.",1,IL,2016,1,0,0.0,41.0,1,,watch
+grain craft,"Grain Craft, Inc.",1,TN,2016,1,0,0.0,50.0,1,,watch
+green cuisine,"Green Cuisine, Inc.",1,CA,2016,1,1,100.0,188.0,1,,acute_severe
+h p hood,"H.P. Hood, LLC",1,CA,2016,1,0,0.0,160.0,1,,watch
+hy vee stores,Hy-Vee Stores Inc,1,IA,2016,1,1,100.0,188.0,1,,acute_severe
+iq formulations,"IQ Formulations, LLC",1,FL,2016,1,0,0.0,169.0,1,,watch
+j m exotic foods,J M Exotic Foods Inc,1,AL,2016,1,1,100.0,232.0,1,,acute_severe
+kabobs,Kabobs Inc,1,GA,2016,1,0,0.0,112.0,1,,watch
+kellogg,Kellogg Company,1,MI,2016,1,0,0.0,44.0,1,,watch
+kwik trip bakery,Kwik Trip Bakery,1,WI,2016,1,0,0.0,42.0,1,,watch
+life rising s,Life Rising Corp                                    S,1,IL,2016,1,1,100.0,247.0,1,,acute_severe
+magic gourmet trading,Magic Gourmet Trading Inc,1,CA,2016,1,0,0.0,140.0,1,,watch
+midwest international,Midwest International Corp,1,NY,2016,1,0,0.0,49.0,1,,watch
+minnie marie bakers dba awrey s bakery,"Minnie Marie Bakers, Inc. dba Awrey's Bakery",1,MI,2016,1,1,100.0,40.0,1,,acute_severe
+nestle usa,Nestle USA,1,OH,2016,1,0,0.0,20.0,1,,watch
+nu life market,Nu Life Market LLC,1,KS,2016,1,1,100.0,97.0,1,,acute_severe
+pao de milho iii,"PAO DE MILHO III, LLC",1,NJ,2016,1,0,0.0,36.0,1,,watch
+pharmatech,Pharmatech LLC,1,FL,2016,1,0,0.0,86.0,1,,watch
+productos la finca,"Productos La Finca, Inc.",1,PR,2016,1,0,0.0,64.0,1,,watch
+roland foods,"Roland Foods, LLC.",1,NY,2016,1,0,0.0,29.0,1,,watch
+rucker s wholesale and service,"Rucker's Wholesale & Service Co., Inc.",1,IL,2016,1,1,100.0,49.0,1,,acute_severe
+safecor health,"Safecor Health, LLC",1,MA,2016,1,0,0.0,93.0,1,,watch
+savory foods,"Savory Foods, Inc.",1,MI,2016,1,1,100.0,244.0,1,,acute_severe
+schnucks markets corporate office,Schnucks Markets Corporate Office,1,MO,2016,1,1,100.0,198.0,1,,acute_severe
+schreiber food international,Schreiber Food International,1,NJ,2016,1,0,0.0,41.0,1,,watch
+shearers foods,"Shearers Foods, Llc",1,OH,2016,1,1,100.0,97.0,1,,acute_severe
+simply fresh fruit,Simply Fresh Fruit,1,CA,2016,1,1,100.0,258.0,1,,acute_severe
+specialty commodities,"Specialty Commodities, Inc.",1,ND,2016,1,0,0.0,57.0,1,,watch
+umpqua dairy products,Umpqua Dairy Products Co,1,OR,2016,1,0,0.0,41.0,1,,watch
+union bagel shop,Union Bagel Shop,1,OR,2016,1,0,0.0,202.0,1,,watch
+united natural trading,United Natural Trading,1,NJ,2016,1,1,100.0,145.0,1,,acute_severe
+wakefern food,Wakefern Food Corp.,1,NJ,2016,1,0,0.0,145.0,1,,watch
+windy acres candy and nut outlet,"Windy Acres Candy & Nut, Outlet Inc.",1,OH,2016,1,1,100.0,78.0,1,,acute_severe
+winter gardens quality foods,"Winter Gardens Quality Foods, Inc.",1,PA,2016,1,0,0.0,65.0,1,,watch
+blue bell creameries,"Blue Bell Creameries, L.P.",1,TX,2015,5,5,100.0,110.0,5,,acute_severe
+health one pharmaceuticals,Health One Pharmaceuticals Inc,1,CA,2015,4,0,0.0,63.0,4,,watch
+c h guenther and son dba morrison milling,"C. H. Guenther & Son, Inc.dba Morrison Milling",1,TX,2015,3,0,0.0,135.0,3,,watch
+inventure foods,Inventure Foods,1,AZ,2015,2,2,100.0,125.0,3,1.0,acute_severe
+coloma frozen foods,"Coloma Frozen Foods, Inc.",1,MI,2015,1,0,0.0,40.0,1,,watch
+con yeager spice,Con Yeager Spice Co,1,PA,2015,1,0,0.0,120.0,1,,watch
+cott beverages,Cott Beverages Inc.,1,FL,2015,1,0,0.0,78.0,1,,watch
+dairy farmers of america,Dairy Farmers OF America Inc,1,MO,2015,1,0,0.0,54.0,1,,watch
+fine land,Fine Land Corp,1,NY,2015,1,0,0.0,51.0,1,,watch
+garden harvest,Garden Harvest,1,OH,2015,1,0,0.0,161.0,1,,watch
+giant eagle,"Giant Eagle, Inc.",2,PA,2015,1,1,100.0,82.0,1,,acute_severe
+hardies fruit and vegetable,"Hardies Fruit & Vegetable Co., LP",1,TX,2015,1,1,100.0,36.0,1,,acute_severe
+iowa select herbs,Iowa Select Herbs LLC,1,IA,2015,1,0,0.0,243.0,1,,watch
+jeni s splendid ice creams,Jeni's Splendid Ice Creams LLC,1,OH,2015,1,1,100.0,147.0,1,,acute_severe
+lavoi d b a epi de france,Lavoi Corporation d/b/a/ Epi De France,1,GA,2015,1,0,0.0,127.0,1,,watch
+natural creations,Natural Creations Inc,1,IA,2015,1,0,0.0,40.0,1,,watch
+nestle waters north america,Nestle Waters North America,1,CT,2015,1,0,0.0,42.0,1,,watch
+ocean group,Ocean Group Inc.,1,CA,2015,1,1,100.0,56.0,1,,acute_severe
+poco dolce confections,"Poco Dolce Confections, Inc.",1,CA,2015,1,0,0.0,19.0,1,,watch
+reaction nutrition,Reaction Nutrition LLC,1,PA,2015,1,0,0.0,63.0,1,,watch
+regency group the,"Regency Group, Inc., The",1,OR,2015,1,0,0.0,34.0,1,,watch
+sabra dipping,"Sabra Dipping Company, LLC",1,VA,2015,1,1,100.0,29.0,1,,acute_severe
+shearer s foods,Shearer's Foods Inc.,1,AR,2015,1,1,100.0,48.0,1,,acute_severe
+skipanon brand seafoods,Skipanon Brand Seafoods LLC,1,OR,2015,1,0,0.0,68.0,1,,watch
+sunset natural products,Sunset Natural Products Inc.,1,FL,2015,1,0,0.0,449.0,1,,watch
+the spicemill,The Spicemill LLC.,1,CT,2015,1,1,100.0,70.0,1,,acute_severe
+united trading center,UNITED TRADING CENTER INC,1,NJ,2015,1,1,100.0,106.0,1,,acute_severe
+good herbs,"Good Herbs, Inc.",1,MI,2014,4,0,0.0,194.3,4,,watch
+kerry foods,Kerry Foods,1,WI,2014,1,0,0.0,205.0,3,2.0,watch
+koogee queen anne,"Koogee-Queen Anne, LLC",1,KY,2014,3,0,0.0,97.0,3,,watch
+parkers farm,Parkers Farm Inc,1,MN,2014,3,3,100.0,33.0,3,,acute_severe
+numbskull,Numbskull LLC,1,WA,2014,2,2,100.0,57.0,2,,acute_severe
+snoqualmie gourmet ice cream,Snoqualmie Gourmet Ice Cream,1,WA,2014,2,2,100.0,199.0,2,,acute_severe
+adams extract and spice,Adams Extract & Spice LLC,1,TX,2014,1,1,100.0,68.0,1,,acute_severe
+american pop corn,American Pop Corn Co,1,IA,2014,1,0,0.0,19.0,1,,watch
+boku international,BoKU International,1,CA,2014,1,1,100.0,63.0,1,,acute_severe
+california snack foods,California Snack Foods Inc,1,CA,2014,1,1,100.0,109.0,1,,acute_severe
+coca cola the,Coca-Cola Company  (The),1,GA,2014,1,0,0.0,62.0,1,,watch
+country life,Country Life,1,NY,2014,1,0,0.0,41.0,1,,watch
+csm bakery products na atlanta frozen,CSM Bakery Products NA-Atlanta Frozen,1,GA,2014,1,1,100.0,265.0,1,,acute_severe
+del monte fresh produce na,"Del Monte Fresh Produce NA, Inc",1,MD,2014,1,1,100.0,43.0,1,,acute_severe
+dole fresh vegetables,Dole Fresh Vegetables Inc,1,CA,2014,1,1,100.0,28.0,1,,acute_severe
+elevated ice cream,Elevated Ice Cream Company,1,WA,2014,1,1,100.0,71.0,1,,acute_severe
+family food distributors,"Family Food Distributors, Inc.",1,NJ,2014,1,0,0.0,78.0,1,,watch
+fish family farm,Fish Family Farm,1,CT,2014,1,0,0.0,76.0,1,,watch
+florimont,"Florimont, Inc.",1,HI,2014,1,1,100.0,40.0,1,,acute_severe
+full tilt ice cream,Full Tilt Ice Cream,1,WA,2014,1,1,100.0,58.0,1,,acute_severe
+gm manufacturing,GM Manufacturing Inc.,1,CA,2014,1,0,0.0,34.0,1,,watch
+hot pandeyuca and,Hot Pandeyuca & Company Inc,1,FL,2014,1,0,0.0,89.0,1,,watch
+keystone food products,Keystone Food Products Inc,1,PA,2014,1,0,0.0,92.0,1,,watch
+kraft heinz foods,Kraft Heinz Foods,2,IL,2014,1,0,0.0,54.0,1,,watch
+m and m farm,M & M Farm Inc.,1,FL,2014,1,1,100.0,40.0,1,,acute_severe
+oasis brands,"Oasis Brands, Inc",1,FL,2014,1,1,100.0,61.0,1,,acute_severe
+oscar s hickory house,"Oscar's Hickory House, Inc.",1,NY,2014,1,1,100.0,217.0,1,,acute_severe
+prep enterprises,Prep Enterprises Llc,1,CA,2014,1,0,0.0,41.0,1,,watch
+super organic foods,"Super Organic Foods, Inc",1,NY,2014,1,1,100.0,43.0,1,,acute_severe
+taylor farms pacific macarthur facility,Taylor Farms Pacific Inc. (MacArthur Facility),1,CA,2014,1,1,100.0,40.0,1,,acute_severe
+triceutical zhang,Triceutical Inc./Zhang,1,NY,2014,1,0,0.0,747.0,1,,watch
+wegmans food markets,"Wegmans Food Markets, Inc.",1,NY,2014,1,0,0.0,157.0,1,,watch
+whole foods market brand 365,"Whole Foods Market Brand 365, Llc",1,TX,2014,1,1,100.0,180.0,1,,acute_severe
+wholesome soy products,Wholesome Soy Products,1,IL,2014,1,1,100.0,544.0,1,,acute_severe
+garden fresh foods,"Garden-Fresh Foods, Inc.",1,WI,2013,8,8,100.0,45.0,10,2.0,acute_severe
+reser s fine foods,"Reser's Fine Foods, Inc.",1,OR,2013,5,5,100.0,71.0,5,,acute_severe
+boba direct,"Boba Direct, Inc.",1,IL,2013,2,0,0.0,917.0,2,,watch
+healthmaxx global,Healthmaxx Global Inc.,1,CA,2013,2,0,0.0,114.0,2,,watch
+lipari foods,"Lipari Foods, Inc.",1,MI,2013,2,2,100.0,43.0,2,,acute_severe
+simply d lish,"Simply D'Lish, LLC",1,IL,2013,2,0,0.0,43.0,2,,watch
+blessing seafood,"Blessing Seafood, Inc.",1,AZ,2013,1,1,100.0,26.0,1,,acute_severe
+contoocook creamery,Contoocook Creamery,1,NH,2013,1,0,0.0,117.0,1,,watch
+craft brewers alliance,Craft Brewers Alliance Inc.,1,OR,2013,1,0,0.0,36.0,1,,watch
+dairy fresh,Dairy Fresh LLC,1,NC,2013,1,1,100.0,42.0,1,,acute_severe
+dakota specialty milling,"Dakota Specialty Milling, Inc",1,ND,2013,1,0,0.0,34.0,1,,watch
+decoty coffee,"Decoty Coffee Company, Inc",1,TX,2013,1,0,0.0,9.0,1,,watch
+el campestre,El Campestre,1,CA,2013,1,1,100.0,55.0,1,,acute_severe
+florida nutri labs,"Florida Nutri Labs, LLC",1,FL,2013,1,0,0.0,49.0,1,,watch
+global health laboratories,"Global Health Laboratories, LLC",1,NY,2013,1,0,0.0,48.0,1,,watch
+international foodsource,"International Foodsource, LLC",1,NJ,2013,1,0,0.0,92.0,1,,watch
+jtm provisions,JTM Provisions Co Inc,1,OH,2013,1,1,100.0,14.0,1,,acute_severe
+kirkman group,Kirkman Group Inc.,1,OR,2013,1,0,0.0,54.0,1,,watch
+national enzyme,National Enzyme Co,1,MO,2013,1,0,0.0,56.0,1,,watch
+ozone confection and bakers supply,Ozone Confection & Bakers Supply Co.,1,NJ,2013,1,0,0.0,55.0,1,,watch
+paleteria y neveria la rosita,"Paleteria Y Neveria La Rosita, LLC",1,IN,2013,1,0,0.0,32.0,1,,watch
+pan o gold baking,Pan -O- Gold Baking Co,1,MN,2013,1,0,0.0,49.0,1,,watch
+price chopper golub corperisable warehouse,Price Chopper Golub Corperisable Warehouse,1,NY,2013,1,0,0.0,40.0,1,,watch
+red mill farms,Red Mill Farms,1,PA,2013,1,0,0.0,154.0,1,,watch
+see s candies,See's Candies Inc.,1,CA,2013,1,1,100.0,19.0,1,,acute_severe
+sib,"SIB, Inc.",1,IN,2013,1,0,0.0,37.0,1,,watch
+terrafina,Terrafina,1,NY,2013,1,1,100.0,96.0,1,,acute_severe
+united natural foods greenwood,"United Natural Foods, Inc. - Greenwood",1,IN,2013,1,1,100.0,20.0,1,,acute_severe
+sunland,"Sunland, Incorporated",1,NM,2012,4,4,100.0,37.0,4,,acute_severe
+spartan central kitchen,Spartan Central Kitchen,1,MI,2012,3,0,0.0,44.0,3,,watch
+garden fresh foods,"Garden-Fresh Foods, Inc.",1,WI,2012,2,2,100.0,54.0,2,,acute_severe
+kerry foods,Kerry Foods,1,WI,2012,2,0,0.0,26.0,2,,watch
+publix super markets,"Publix Super Markets, Inc.",1,FL,2012,2,2,100.0,125.0,2,,acute_severe
+3fish,3fish Inc.,1,NC,2012,1,1,100.0,40.0,1,,acute_severe
+c g higgins confections,"C.G. Higgins Confections, LLC",1,NM,2012,1,1,100.0,26.0,1,,acute_severe
+caito foods service,"Caito Foods Service, Inc.",1,IN,2012,1,1,100.0,39.0,1,,acute_severe
+cass clay creamery ampi fargo division,Cass Clay Creamery AMPI Fargo Division,1,ND,2012,1,0,0.0,47.0,1,,watch
+coca cola refreshments usa,"Coca-Cola Refreshments, USA Inc.",1,GA,2012,1,0,0.0,47.0,1,,watch
+ethnic international holding,Ethnic International Holding Inc,1,NJ,2012,1,0,0.0,83.0,1,,watch
+fabrica confecciones soto,"Fabrica Confecciones Soto, Inc.",1,PR,2012,1,0,0.0,63.0,1,,watch
+floyd peterson,Floyd Peterson Company Inc.,1,WA,2012,1,1,100.0,44.0,1,,acute_severe
+fresh ideas,Fresh Ideas Inc.,1,MA,2012,1,1,100.0,41.0,1,,acute_severe
+freshpoint south florida,FreshPoint South Florida,1,FL,2012,1,1,100.0,19.0,1,,acute_severe
+g o fresh,G.O. Fresh,1,MN,2012,1,1,100.0,34.0,1,,acute_severe
+garden fresh salsa,"Garden Fresh Salsa, Inc.",1,MI,2012,1,0,0.0,55.0,1,,watch
+inventure foods,Inventure Foods,1,AZ,2012,1,0,0.0,40.0,1,,watch
+lehi valley trading,"Lehi Valley Trading Co, Inc",2,AZ,2012,1,0,0.0,48.0,1,,watch
+maine natural health,"Maine Natural Health, Inc.",1,ME,2012,1,1,100.0,789.0,1,,acute_severe
+ready pac foods,Ready Pac Foods Inc,1,CA,2012,1,1,100.0,33.0,1,,acute_severe
+river ranch fresh foods,River Ranch Fresh Foods  LLC,1,CA,2012,1,1,100.0,89.0,1,,acute_severe
+santos,Santos Inc.,1,CA,2012,1,1,100.0,40.0,1,,acute_severe
+springside cheese,Springside Cheese Corp,1,WI,2012,1,0,0.0,40.0,1,,watch
+tomales bay foods,"Tomales Bay Foods, Inc.",1,CA,2012,1,0,0.0,137.0,1,,watch
+unified grocers,Unified Grocers Inc.,1,CA,2012,1,1,100.0,37.0,1,,acute_severe
+zingerman s bakehouse,"Zingerman's Bakehouse, Inc.",1,MI,2012,1,0,0.0,40.0,1,,watch
+trophy nut,Trophy Nut Co Inc,1,OH,2009,1,1,100.0,1534.0,1,,acute_severe
